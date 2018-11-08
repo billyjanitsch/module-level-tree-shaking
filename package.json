@@ -1,0 +1,20 @@
+{
+  "name": "module-level-tree-shaking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "sideEffects": false,
+  "dependencies": {
+    "react": "^16.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-command": "^0.4.2"
+  },
+  "scripts": {
+    "build": "webpack-command"
+  },
+  "keywords": [],
+  "author": "Billy Janitsch <billy@kensho.com> (https://billyjanitsch.com/)",
+  "license": "ISC"
+}
